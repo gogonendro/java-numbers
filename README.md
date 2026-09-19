@@ -2,7 +2,7 @@
 Java programs based on Numbers
 
 ## What this repository contains
-This repo contains total 15 'number programs', which includes:
+This repo contains 15 programs based on numbers:
 1. Palindrome Number
 2. Armstrong Number
 3. Kaprekar Number
