@@ -1,4 +1,4 @@
-# java-number-programs
+# java-numbers
 Java programs based on Numbers
 
 ## What this repository contains
