@@ -1,10 +1,10 @@
 # java-number-programs
 
-Java programs based on **number properties**, covering common mathematical and number-based programming problems at the Class XII level.
+Java programs based on **number properties**, covering common mathematical and number-based programming problems at the Class XII level
 
 ## What this repository contains
 
-This repository contains **15 Java programs** that determine or demonstrate different properties of numbers.
+This repository contains **15 Java programs** that determine or demonstrate different properties of numbers
 
 1. **Palindrome** — checks whether a number remains the same when its digits are reversed.
 2. **Armstrong** — checks whether a number is equal to the sum of the powers of its digits.
